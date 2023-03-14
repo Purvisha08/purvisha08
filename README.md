@@ -7,7 +7,7 @@
   <img alt="MIT LICENCE" src="https://img.shields.io/github/license/purvisha08/purvisha08?style=flat&color=blue&label=Licence"/>
 </p>
 
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1600/0*K2WLMTExLyida7OR.gif"/>
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1600/0*K2WLMTExLyida7OR.gif" width="400" height="300"/>
 
 •	🔭 I’m currently pursuing Master's degree in Applied Computer Science at Dalhousie University.
 
