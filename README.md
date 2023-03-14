@@ -41,7 +41,7 @@
 <hr></hr>
 
 ## 📈 Github Activity Graph
-[![Meet's Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=purvisha08&theme=nord)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Purvisha's Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=purvisha08&theme=nord)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <hr></hr>
 
