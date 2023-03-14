@@ -62,3 +62,4 @@
 <h2> ❤️ Connect With Me on Social Media </h2>
 
 &nbsp;&nbsp;&nbsp;[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='30'>](mailto:purvishapatel30@gmail.com)&nbsp;&nbsp;
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/purvisha-patel-43a02b17a/)&nbsp;&nbsp;
