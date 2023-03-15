@@ -57,7 +57,7 @@
 </table>
 </div>
 
-<hr></hr>
+<hr></hr> 
 
 <h2> ❤️ Connect With Me on Social Media </h2>
 
